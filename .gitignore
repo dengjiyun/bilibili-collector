@@ -1,0 +1,10 @@
+# 运行时数据目录（含 cookies.txt 登录态，禁止提交）
+data/
+
+# WorkBuddy skill 元数据（记忆等）
+.workbuddy/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
